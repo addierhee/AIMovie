@@ -30,3 +30,10 @@ A Streamlit web app that helps you discover, research, and organize movies using
 
 ---
 
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/your-username/ai-movie-assistant.git
+cd ai-movie-assistant
